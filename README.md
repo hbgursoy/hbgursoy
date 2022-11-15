@@ -1,5 +1,5 @@
 # 💫 About Me:
-👷 I'm currently working as a full-time Civil-Geotechnical Engineer.<br>💡  I'm passionate about learning and wondering continuously.<br>📚 I’m learning more about Front-End Web Development.<br>💬 Ask me about any civil-geotechnical related stuff.<br>📧 How to reach me: Email - gursoyhuseyinberk@gmail.com<br>📍   Ankara, Turkiye
+👷 I'm currently working as a full-time Civil-Geotechnical Engineer.<br>💡  I'm a passionate learner and continuous wonderer.<br>📚 I’m learning more about Front-End Web Development.<br>💬 Ask me about any civil-geotechnical related stuff.<br>📧 How to reach me: Email - gursoyhuseyinberk@gmail.com<br>📍   Ankara, Turkiye
 
 
 ## 🌐 Socials:
